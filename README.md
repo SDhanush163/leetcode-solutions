@@ -1,5 +1,6 @@
 # Java Solutions to [Leetcode problems ](https://leetcode.com/problemset/all/)
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](LICENSE)
 [![Leetcode](https://img.shields.io/badge/LeetCode-dsdhanush62-blue?style=flat-square)](https://leetcode.com/dsdhanush62/)
 ![Language](https://img.shields.io/badge/Language-Java-green?style=flat-square)
 
