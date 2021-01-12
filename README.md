@@ -10,8 +10,8 @@ If you like this project, please leave me a star ⭐.
 
 Click on any one to get started
 
-🚀 [Easy](src/Easy) - 4 Solutions
+🚀 [Easy](src/Easy) - 10 Solutions
 
-🚀 [Medium](src/Medium) - 0 Solutions
+🚀 [Medium](src/Medium) - 2 Solutions
 
 🚀 [Hard](src/hard) - 0 Solutions
