@@ -10,7 +10,7 @@ If you like this project, please leave me a star ⭐.
 
 Click on any one to get started
 
-🚀 [Easy](src/Easy) - 15 Solutions
+🚀 [Easy](src/Easy) - 17 Solutions
 
 🚀 [Medium](src/Medium) - 3 Solutions
 
